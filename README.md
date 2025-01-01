@@ -11,7 +11,7 @@ LAIdaidai/LAIdaidai is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wellcome+to+my+GitHub;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Wellcome+to+my+GitHub;Wellcome+to+my+GitHub)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laidaidai)
 
